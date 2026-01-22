@@ -1,0 +1,17 @@
+C:\Users\l.peshterliev\Downloads\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.exe
+C:\Users\l.peshterliev\Downloads\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.deps.json
+C:\Users\l.peshterliev\Downloads\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.runtimeconfig.json
+C:\Users\l.peshterliev\Downloads\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.dll
+C:\Users\l.peshterliev\Downloads\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.pdb
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.AssemblyInfoInputs.cache
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.AssemblyInfo.cs
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.dll
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\refint\ImageEditor.dll
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.pdb
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.genruntimeconfig.cache
+C:\Users\l.peshterliev\Downloads\ImageEditor\obj\Debug\net8.0-windows\ref\ImageEditor.dll
+C:\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.dll
+C:\ImageEditor\obj\Debug\net8.0-windows\refint\ImageEditor.dll
+C:\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.pdb
