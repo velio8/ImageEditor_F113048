@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Основни настройки на проекта -->
+  <PropertyGroup>
+    <!-- Windows приложение -->
+    <OutputType>WinExe</OutputType>
+    
+    <!-- .NET 8 с Windows поддръжка -->
+    <TargetFramework>net8.0-windows</TargetFramework>
+    
+    <!-- Активиране на Windows Forms -->
+    <UseWindowsForms>true</UseWindowsForms>
+    
+    <!-- Nullable reference types -->
+    <Nullable>disable</Nullable>
+    
+    <!-- Implicit usings -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    
+    <!-- Информация за приложението -->
+    <AssemblyTitle>Редактор на изображения</AssemblyTitle>
+    <Product>Image Editor</Product>
+    <Description>Windows Forms приложение за обработка на изображения с многоезичен интерфейс</Description>
+    <Company>Student Project</Company>
+    <Copyright>© 2024</Copyright>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
